@@ -4,7 +4,8 @@
 Learning about sustainable technologies and innovative solutions.
 
 **🌱 I’m currently learning...**  
-Exploring various technologies with a strong enthusiasm for continuous learning. I have experience with Python and C.
+Exploring data science with a strong enthusiasm for continuous learning. I have experience with Python and C, and I’m currently diving into data science tools like NumPy, pandas, and Matplotlib.
+
 
 **💞️ I’m looking to collaborate on...**  
 Projects that involve sustainable technology, software development, or any tech-related innovations.
